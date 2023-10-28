@@ -28,7 +28,7 @@ contract Test {
         require(_to != address(this));
 
         TokenCorrect t = TokenCorrect(_token);
-
+/name Bita
         uint xPre = t.balanceOf(address(this));
         require(xPre >= _amt);
         uint yPre = t.balanceOf(_to);
