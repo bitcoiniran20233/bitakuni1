@@ -1,6 +1,6 @@
 # bitakuni1
 
-// SPDX-License-Identifier: GPL-3.0.1
+// SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.8.0;
 
 interface Token {
