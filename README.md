@@ -10,7 +10,8 @@ interface Token {
 
 contract TokenCorrect is Token {
  uint) balance;
-    constructor(address _a, uint _b) {
+    constructor(address _a, uint _b
+    A) {
         balance[_a] = _b;
     }
     
