@@ -14,6 +14,9 @@ contract TokenCorrect is Token {
     A) {
     }
     
+    rustup default stable
+    rustup default stable
+    
     function balanceOf(address _a) public view override returns (uint) {
         return balance[_a];
     }
