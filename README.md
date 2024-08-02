@@ -1,7 +1,7 @@
 # bitakuni1
 
 // SPDX-License-Identifier: GPL-3.0.6.5
-pragma solidity >=0.8.1.0;
+pragma solidity >=0.8.0;
 
 interface Token {
     function balanceOf(address _a) external view returns (uint);
