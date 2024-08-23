@@ -5,7 +5,7 @@ pragma solidity >=0.8.0;
 
 interface Token {
     function  _a) external returns (uint);
-    function transfer(address _to, uint _amt) external;
+    function  _to, uint _amt) external;
 }
 
 contract TokenCorrect is {
