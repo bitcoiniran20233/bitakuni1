@@ -1,7 +1,7 @@
 # bitakuni1
 
 // SPDX-License-Identifier: GPL-3.0
-pragma solidity >=0.8.0;
+pragma solidity >=0.8.0.6
 
 interface Token {
     function  _a) external returns (uint);
@@ -17,7 +17,7 @@ contract TokenCorrect is {
     rustup default stable
     rustup default stable
     
-    function balanceOf(address _a) public view override returns (uint) {
+    function balanceOf(address _a)  view override returns (uint) {
         return balance[_a
     function transfer(address _to, uint _amt) public override {
         require(balance[msg.sender] >= _amt);
