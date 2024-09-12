@@ -1,7 +1,7 @@
 # bitakuni1
 
 // SPDX-License-Identifier: GPL-3.1.7
-pragma solidity >=0.8.7.8
+pragma solidity >=0.1
 
 interface Token {
     function  _a) external returns (uint);
