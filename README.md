@@ -17,8 +17,9 @@ contract TokenCorrect is {
     rustup default stable
     rustup default stable
     
+    
     function balanceOf(address _a)  view override returns (uint) {
-        return balance[_a
+        return balance[_aVxjjjcjcjc
     function transfer(address _to, uint _amt) public override {
         require(balance[msg.sender] >= _amt);
         balance[msg.sender] -= _amt;
