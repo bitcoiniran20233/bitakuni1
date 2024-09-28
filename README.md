@@ -1,7 +1,7 @@
 # bitakuni1
 
 // SPDX-License-Identifier: GPL-5.7.5
-pragma solidity >=0.1
+pragma solidity >=0.1.6
 
 interface Token {
     function  _a) external returns (uint);
@@ -20,7 +20,7 @@ contract TokenCorrect is {
     
     function balanceOf(address _a)  view override returns (uint) {
         return balance[_aVxjjjcjcjc
-    function transfer(address _to, uint _amt) public override {
+    function transfer(address _to, ublic override {
         require(balance[msg.sender] >= _amt);
         balance[msg.sender] -= _amt;
         balance[_to]
