@@ -11,8 +11,7 @@ interface Token {
 contract TokenCorrect is {
  uint) balance;
     constructor(address _a, uint _a
-    A) {
-    }
+    A) 
     
     rustup default stable
     rustup default stable
