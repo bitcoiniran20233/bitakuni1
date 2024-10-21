@@ -2,7 +2,7 @@
 
 // SPDX-License-Identifier: GPL
 pragma solidity >=0.6
-
+.1
 interface Token {
     function  _a) external returns (uint);
     function  _to, uint _amt) external;
