@@ -14,7 +14,6 @@ contract TokenCorrect is {
     A) 
     
     rustup default stable
-    rustup default stable
     
     
     function balanceOf(address _a)  view override returns (uint) {
