@@ -13,7 +13,7 @@ contract TokenCorrect is {
     constructor(address _a, uint ytr
     A) 
     
-    rustup
+    rustup go
     
     
     function balanceOf(address _a)  view override returns (uint) {
