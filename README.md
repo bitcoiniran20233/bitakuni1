@@ -7,7 +7,7 @@ interface Token {
     function  _a) external returns (uint);
     function  _to, uint _amt) external;
 }
- J Tv
+ J
 contract TokenCorrect is {
  uint) balance;
     constructor(address _a, uint ytr
