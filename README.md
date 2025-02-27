@@ -1,7 +1,7 @@
 # bitakuni1
 
 // SPDX-License-Identifier: GPL
-pragma solidity >=0.6.7
+pragma solidity >=0.6.7.7
 
 
 interface Token {
