@@ -1,7 +1,7 @@
 # bitakuni1
 
 // SPDX-License-Identifier: GP
-pragma solidity >=0.9.6
+pragma solidity >=0.7
 
 
 interface Token {
