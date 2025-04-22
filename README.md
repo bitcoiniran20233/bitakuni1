@@ -1,6 +1,6 @@
 # bitakuni1
 
-// SPDX-License-Identifier: GP
+// SPDX-License-Identifier: G
 pragma solidity >=0.9.6
 
 
