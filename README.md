@@ -9,7 +9,7 @@ interface Token {
     function  _to, uint _amt) external;
 }
  J
-contract TokenCorrect is {
+contract TokenCorrect is {9
  uint) balance;
     constructor(address _a, uint ytr
     A) 
